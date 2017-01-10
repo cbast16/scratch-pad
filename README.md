@@ -3,7 +3,7 @@ Daily coding exercises will be posted here.
 
 ### Technologies Used ###
 
-*PHP
-*JS
-*HTML/CSS
+* PHP
+* JS
+* HTML/CSS
 
