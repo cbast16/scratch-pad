@@ -4,6 +4,6 @@ Daily coding exercises will be posted here.
 ### Technologies Used ###
 
 *PHP
-JS
+*JS
 *HTML/CSS
 
